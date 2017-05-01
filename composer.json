@@ -1,0 +1,16 @@
+{
+    "name": "red/portfolio-data",
+    "description": "Redhead Design Studio Portfolio",
+    "type": "library",
+    "authors": [
+        {
+            "name": "redhead design studio",
+            "email": "info@redhead.studio"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Red\\PortfolioData\\": "src/"
+        }
+    }
+}
