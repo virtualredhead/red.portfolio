@@ -8,7 +8,10 @@ tags:
 sections :
     -
         title: From the ground up
-        media: spread.jpg
+        media:
+            -
+                type: img
+                data:  spread.jpg
         description: Designing the inaugural issue of a publication requires a solid
             base of strategy, lots of creativity, a dose of efficiency and logic, a heap
             of technical skill, and a generous portion of great collaboration. (That last
@@ -19,7 +22,10 @@ sections :
             to fill the gap.
     -
         title: Down to the details
-        media: details.jpg
+        media:
+            -
+                type: img
+                data:  details.jpg
         description: Conceptualizing the perfect name, working to develop a
             cover and flag that set the proper tone, envisioning what can be
             done with photography to support editorial as well as intrigue the
@@ -30,7 +36,10 @@ sections :
             end result.
     -
         title: Honoring the brand
-        media: book.jpg
+        media:
+            -
+                type: img
+                data:  book.jpg
         description: MSU has a very thorough and intentional brand. It’s
             important that marketing and editorial materials such as In The
             Field adhere to the brand and enhance it. The challenge, then, is to

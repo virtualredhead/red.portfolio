@@ -8,7 +8,10 @@ tags:
 sections :
     -
         title: World-class research.
-        media: research.jpg
+        media:
+            -
+                type: img
+                data:  research.jpg
         description: At a major university like MSU, a robust research portfolio
             is expected. It’s even more impressive when conducted by scholars in
             their very first years. We helped the client outline opportunities
@@ -16,7 +19,10 @@ sections :
             today.
     -
         title: Technical beauty goes a long way.
-        media: tech.jpg
+        media:
+            -
+                type: img
+                data:  tech.jpg
         description: Robust web applications are like icebergs—massive and
             powerful parts are hidden beneath the surface. Building
             database-heavy applications is one of our favorite things. The goal?
@@ -24,7 +30,10 @@ sections :
             side of the equation.
     -
         title: Heavy-hitting partnerships.
-        media: partner.jpg
+        media:
+            -
+                type: img
+                data:  partner.jpg
         description: A Big Ten university and a Fortune 500 company team up and
             Redhead gets to help? Neat. Overarching theme, digital and print
             collateral, plus details down to the nametags? Check. Strategy,

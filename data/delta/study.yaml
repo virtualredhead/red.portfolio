@@ -8,7 +8,10 @@ tags:
 sections :
     -
         title: Building a movement.
-        media: website.jpg
+        media:
+            -
+                type: img
+                data:  website.jpg
         description: Some causes require—and evoke—a visceral reaction that is
             deeper than a marketing campaign. Around these parts, ask about The
             Lake, and there is rarely a doubt that you’re talking about Lake
@@ -16,7 +19,10 @@ sections :
             in an ultra-current aesthetic, and it's an obvious win.
     -
         title: Advocacy goes guerrilla.
-        media: stencil.jpg
+        media:
+            -
+                type: img
+                data:  stencil.jpg
         description: A movement means taking action. Our photo frame allows lake
             lovers to express what their hearts are tied to, and encourages them
             to get a little sand between their toes. A properly developed and

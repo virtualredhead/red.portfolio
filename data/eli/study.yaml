@@ -9,7 +9,10 @@ tags:
 sections:
     -
         title: Research and planning
-        media: section1.jpg
+        media:
+            -
+                type: img
+                data:  section1.jpg
         description: A website is arguably an organization's most relevant and
             powerful marketing tool. When planning a website overhaul for Eli
             Broad College of Business at Michigan State University, we
@@ -21,7 +24,10 @@ sections:
             know.)
     -
         title: Identifying creative solutions
-        media: section2.jpg
+        media:
+            -
+                type: img
+                data:  section2.jpg
         description: We believe strongly that all aspects of a website are
             interconnected, and should be considered holistically. Photography
             choices, rhetoric, design, development, and business goals should
@@ -34,7 +40,10 @@ sections:
             effective, and efficient presence.
     -
         title: Prioritizing ease of use
-        media: section3.jpg
+        media:
+            -
+                type: img
+                data:  section3.jpg
         description: We believe in accessibility as best practice. In good
             documentation. In logical site mapping and content hierarchy. For
             Broad's site, front-end and back-end development promoted a seamless

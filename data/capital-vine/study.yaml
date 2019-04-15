@@ -8,7 +8,10 @@ tags:
 sections :
     -
         title: Developing a Look and a Personality
-        media: look.jpg
+        media:
+            -
+                type: img
+                data:  look.jpg
         description: A restaurant brand is an immersive experience. Brand,
             marketing materials, physical space, menu, and experience work in
             concert to leave patrons with the right vibe. For Capital Vine, we
@@ -16,14 +19,20 @@ sections :
             bottle and glass—as the foundation.
     -
         title: The Experience
-        media: experience.jpg
+        media:
+            -
+                type: img
+                data:  experience.jpg
         description: Typography is as carefully curated as the wine list.
             Materials from menu to promotional piece and comment cards give
             patrons a cue regarding the level of experience they'll enjoy. Small
             details close the loop and add the perfect garnish.
     -
         title: The Conversation
-        media: conversation.jpg
+        media:
+            -
+                type: img
+                data:  conversation.jpg
         description: Social media calls for great headlines and a clear brand
             presence, well timed to remind the target market that Capital Vine
             is the perfect place for happy hour or evening cocktails or Sunday

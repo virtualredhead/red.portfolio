@@ -8,7 +8,10 @@ tags:
 sections:
     -
         title: Finding a new name that fits
-        media: section1.jpg
+        media:
+            -
+                type: img
+                data:  section1.jpg
         description: Render Studios has had 35 years of success in the books
             under the name of Such Video when they came to us for a rebrand and
             to help position the company. When you've had a successful history
@@ -18,7 +21,10 @@ sections:
             aspirations for the next 35 years.
     -
         title: Positioning and articulating the brand
-        media: section2.jpg
+        media:
+            -
+                type: img
+                data:  section2.jpg
         description: What makes a brand unique? What makes their offerings any
             better or worse than the next guy? Audiences need to know. We helped
             Render's leadership articulate their vision in a way that accurately
@@ -27,7 +33,10 @@ sections:
             and successes.
     -
         title: Getting the launch right
-        media: section3.jpg
+        media:
+            -
+                type: img
+                data:  section3.jpg
         description: A brand relaunch is a distinct opportunity to re-engage
             existing audiences. It allows loyalists to reconsider and reinvest
             in their affinity for what you offer. It's also an opportune moment

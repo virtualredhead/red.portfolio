@@ -8,7 +8,10 @@ tags:
 sections :
     -
         title: We Love Babies (and advocacy)
-        media: stands.jpg
+        media:
+            -
+                type: img
+                data:  stands.jpg
         description: Breastfeeding can be a fraught topic and a difficult
             challenge for many families. Further, misinformation and
             misperceptions can hinder, rather than support, new moms in their
@@ -17,7 +20,10 @@ sections :
             continue breastfeeding, as well as change community perception.
     -
         title: Research & Messaging
-        media: detail.jpg
+        media:
+            -
+                type: img
+                data:  detail.jpg
         description: We talked to a lot of moms, and (no surprise) they hated
             being judged for their feeding choices—breast or bottle. It was also
             apparent that much of the existing breastfeeding messaging felt
@@ -27,7 +33,10 @@ sections :
             breastfeeding in public is legal, healthy, and normal.
     -
         title: Moms for the Win
-        media: web.jpg
+        media:
+            -
+                type: img
+                data:  web.jpg
         description: Photography of nursing families in our community added an
             authenticity stock photos could never achieve, and brought real-life
             advocates and role models to the conversation. And wow, was there

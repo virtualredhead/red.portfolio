@@ -8,7 +8,10 @@ tags:
 sections :
     -
         title: Supporting small business.
-        media: cards.jpg
+        media:
+            -
+                type: img
+                data:  cards.jpg
         description: Helping small businesses develop the tools they need to
             differentiate in a crowded market always feels like a win. From
             brand development to patient communications to marketing, our work
@@ -16,14 +19,20 @@ sections :
             relationship can can support business growth.
     -
         title: More than a logo.
-        media: detail.jpg
+        media:
+            -
+                type: img
+                data:  detail.jpg
         description: Developing a deep brand language—from graphic elements to
             photo style to tone of voice—takes time and trust. We’ve worked with
             the Hagerty team for nearly a decade, which has allowed us to enrich
             the system, know when to bend the rules, and when to grow the brand.
     -
         title: Enriching the experience.
-        media: items.jpg
+        media:
+            -
+                type: img
+                data:  items.jpg
         description: Relationships and community, mixed with a sprinkling of
             sales, is the mix that has keeps Hagerty's marketing efforts
             effective. It also makes for a truly enriched patient relationship

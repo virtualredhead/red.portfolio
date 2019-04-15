@@ -8,7 +8,10 @@ tags:
 sections:
     -
         title: Conceptual thinking
-        media: section1.jpg
+        media:
+            -
+                type: img
+                data:  section1.jpg
         description: Capturing the soul of an organization means more than
             outlining yearly stats in an annual report. It means developing a
             conceptual layer and narrative that captures the reader. For a client
@@ -18,7 +21,10 @@ sections:
             action.
     -
         title: Birthing an annual
-        media: section2.jpg
+        media:
+            -
+                type: img
+                data:  section2.jpg
         description: When a client is new to annual reports, we help guide them
             through the process. We suggest innovative ways to communicate data,
             we dig deep to help them articulate what was notable about the
@@ -29,7 +35,10 @@ sections:
             addresses the problem.
     -
         title: Hitting the details
-        media: section3.jpg
+        media:
+            -
+                type: img
+                data:  section3.jpg
         description: We'll be honest, nothing feels better than well-set
             typography, a clear and organized chart, or strategic white space.
             Small details matter. A lot. And understanding when to go corporate

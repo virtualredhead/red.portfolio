@@ -8,7 +8,10 @@ tags:
 sections :
     -
         title: Balancing awareness with attention.
-        media: posters.jpg
+        media:
+            -
+                type: img
+                data:  posters.jpg
         description: Sexual assault prevention is a sensitive topic. For many
             students, the definitions are fuzzy. They shouldn’t be. We
             visualized those blurred lines via images of tipping point scenarios
@@ -16,14 +19,20 @@ sections :
             excuse” mantra, the campaign makes a sharp point.
     -
         title: Multi-modal outreach is key.
-        media: shirts.jpg
+        media:
+            -
+                type: img
+                data:  shirts.jpg
         description: How do you reach over 49,000 students? By giving them
             options. Tactile mediums such as buttons, water bottles, T-shirts,
             balloons, stickers, and banners give the campaign traveling legs
             and spur questions—where real discourse and change can occur.
     -
         title: Supporting conversations.
-        media: computer.jpg
+        media:
+            -
+                type: img
+                data:  computer.jpg
         description: It certainly takes more than a good headline, posters, and
             tchotchkes to enact change. Social media tools allow engagement with
             MSU students at a more personal level. Ad placements promoting

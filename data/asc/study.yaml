@@ -9,7 +9,10 @@ tags:
 sections:
     -
         title: My kind of people
-        media: section1.jpg
+        media:
+            -
+                type: img
+                data:  section1.jpg
         description: "When strategizing a city-wide campaign for the City of
             Lansing, in-depth market research led us to one common idea: Lansing's
             residents are what set the city apart. The \"My Kind of People\" campaign
@@ -19,7 +22,10 @@ sections:
             folk are what makes this city great. (That, and dinosaurs.)"
     -
         title: A unifying brand
-        media: section2.jpg
+        media:
+            -
+                type: img
+                data:  section2.jpg
         description: Lansing's three smokestacks–fondly known as Wynken,
             Blynken, and Nod–have a cult following among residents. We used this
             as inspiration for a lifestyle mark that was fresh and instantly
@@ -32,7 +38,10 @@ sections:
             community-wide sharing and collaboration.
     -
         title: Articulating a vision
-        media: section3.jpg
+        media:
+            -
+                type: img
+                data:  section3.jpg
         description: Working alongside the city's leadership team, we drafted a
             10-year vision for the City of Lansing, from overarching goals down
             to measurable data points. Through a detailed SWOT analysis,
