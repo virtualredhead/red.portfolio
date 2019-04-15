@@ -9,7 +9,7 @@ tags:
 sections:
     -
         title: Identifying the call to action
-        image: section1.jpg
+        media: section1.jpg
         description: "The Ingham County Health Department came to us with
             statistics supporting an overwhelmingly common public health issue:
             Many women devote so much time to supporting their families that
@@ -21,7 +21,7 @@ sections:
             well-being, for a change."
     -
         title: Meeting women where they are
-        image: section2.jpg
+        media: section2.jpg
         description: Launching a multi-media campaign is a lot more than sharing
             content across as many mediums as possible. It requires meeting your
             target market where they are, and communicating in a way that fits
@@ -31,7 +31,7 @@ sections:
             languages, we were able to effectively reach a variety of audiences.
     -
         title: Connection through representation
-        image: section3.jpg
+        media: section3.jpg
         description: "A funny thing happens when the audience is able to see
             themselves represented in a marketing campaign: they listen. Custom
             photography showcased local women from multiple demographics. We

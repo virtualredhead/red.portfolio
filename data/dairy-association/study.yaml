@@ -8,7 +8,7 @@ tags:
 sections :
     -
         title: Tricky audiences mean clever solutions
-        image: mail.jpg
+        media: mail.jpg
         description: Teens in Michigan—particularly girls—don’t get nearly
             enough calcium to keep their rapidly growing bones healthy. And
             while relying on Mom to chide, “drink your milk!” is indeed a
@@ -17,7 +17,7 @@ sections :
             way to go, and direct mail was the best vehicle.
     -
         title: Everything we learned in school
-        image: social.jpg
+        media: social.jpg
         description: From researching the psychology of teen girls to
             problem-solving the geometry of packaging to wordsmithing a
             compelling message, we aced all the AP courses on this one. We also
@@ -25,7 +25,7 @@ sections :
             interaction with teens into an ongoing social media engagement.
     -
         title: End goal—support & health
-        image: cards.jpg
+        media: cards.jpg
         description: What do teens need? Support and celebration of what makes
             them great, an empowering tone, and some easy nutrition information.
             Campaign language and an aesthetic specifically crafted to resonate

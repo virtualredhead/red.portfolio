@@ -8,7 +8,7 @@ tags:
 sections :
     -
         title: It’s about more than a free meal.
-        image: meet.jpg
+        media: meet.jpg
         description: We crafted a name and brand that aims to remove the stigma
             from free summer food service. At Meet Up & Eat Up sites, kids (and
             sometimes families) eat, socialize, and have the opportunity to be
@@ -16,7 +16,7 @@ sections :
             engagement centers.
     -
         title: The tools for turning a location into a place.
-        image: tools.jpg
+        media: tools.jpg
         description: We worked with United Way for Southeastern Michigan and its
             partners to devise a strategy for re-launching the summer food
             service program along with rich digital and printed toolkits. The
@@ -24,7 +24,7 @@ sections :
             platform for awareness and engagement.
     -
         title: Utilizing a good idea, all over.
-        image: idea.jpg
+        media: idea.jpg
         description: Meet Up & Eat Up expansions and adoptions are happening
             everywhere—the Michigan Department of Education added a “read up”
             component; we’re in the process of developing a tablet-based meal
