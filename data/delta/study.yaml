@@ -29,7 +29,10 @@ sections :
             executed hashtag allows community and conversation to build.
     -
         title: The work behind the beauty.
-        image: lmwa.jpg
+        media:
+            -
+                type: img
+                data: lmwa.jpg
         description: MSU has a very thorough and intentional brand. It’s
             important that marketing and editorial materials such as In The
             Field adhere to the brand and enhance it. The challenge then, is to
