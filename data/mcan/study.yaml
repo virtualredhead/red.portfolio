@@ -1,12 +1,6 @@
 title: Developing a modern brand to accurately represent and garner credibility
     for a leader in college access.
-cover:
-    -
-        media:
-            -
-                type: video
-                data: mcan-annual-report.mp4
-
+cover: mcan-laptop-melissa.jpg
 thumbnail: mcan-coffee.jpg
 client: Michigan College Access Network
 tags:
@@ -41,8 +35,8 @@ sections:
         title: Uniting design and accessibility
         media:
             -
-                type: img
-                data: mcan-laptop-melissa.jpg
+                type: video
+                data: mcan-annual-report.mp4
         description: "We took on an entire overhaul of MCAN’s web presence,
             including improved content organization and a responsive, ADA-compliant
             system. New brand executions prepped MCAN with the tools it need to
