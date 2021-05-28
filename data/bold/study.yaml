@@ -23,10 +23,10 @@ sections:
 
     -
         title: Gathering information and data
-        media: bold-printout.jpg
+        media: 
             -
                 type: img
-                data:
+                data: bold-printout.jpg
         description: To encourage cohesion, we held meetings to gather
             each partner's perspective regarding the challenges
             associated with encouraging local families to save for
